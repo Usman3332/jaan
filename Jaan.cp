@@ -58,7 +58,7 @@ logo = """
 \x1b[1;91m➣ Y SO SERIOUS!
 \x1b[1;92m➣ PAK CYBER HAWKS
 \x1b[1;93m➣ AUTHOR : USMAN KHAN
-\x1b[1;95m➣ WHATSAPP : MADTI NA KR MERA NAL PUTER
+\x1b[1;95m➣ WHATSAPP : MASTI NA KR MERA NAL PUTER
 \x1b[1;96m➣ FACEBOOK : 
 \x1b[1;93m➣ BLESSING : FOR ME
 \x1b[1;94m──────────────────────────────────────────────────────""" 
